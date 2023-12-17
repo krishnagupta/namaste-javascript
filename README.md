@@ -1,0 +1,4 @@
+- Everything in jS happen inside execution context
+- Memory component & code component
+- All the variables & fns are stored in memory component as key value pair
+- JS is a synchronous (order) single threaded(one line at a time) language
