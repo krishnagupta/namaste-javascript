@@ -1,0 +1,4 @@
+- Memory creation phase and code execution phase
+- In call stack whole global execution context is pushed
+- After that when fn is invoked that execution context is pushed
+- After return it is popped of

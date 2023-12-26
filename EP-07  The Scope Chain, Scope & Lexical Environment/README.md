@@ -1,0 +1,5 @@
+- whenever execution context is created, lexical environment also gets created
+- lexical env is local memory along with lexical env of it's parent
+- call stack ke andar execution context on top of one another if any variable is not present than it try to find out in lexical scope of below execution context
+- lexical env is created when execution context is created
+- lexical env is local memory + lexical env of parents

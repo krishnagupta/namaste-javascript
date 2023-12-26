@@ -1,0 +1,3 @@
+- fn , for loop with var , setTimeout
+- env for all of these fns are same
+-

@@ -1,0 +1,8 @@
+- let & const declarations are hoisted
+- let & cost are allocated memory but they r stored in different memory space than global
+- u cant access before putting value to them
+- it remains in temporal dead zone till(from hoisting) it is initialised
+- syntax error (let a =5, let a = 6)
+- type error (const b; b= 5)
+- reference error (console.log(x); let x =5)
+- best way to avoid temp dead zone, push dec and initlzn at top

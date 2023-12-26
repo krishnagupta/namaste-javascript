@@ -1,0 +1,8 @@
+- Empty js file also get executed
+- Global execution context gets created
+- window is assigned by js engine
+- at global level this point to window
+- this==window true at global level
+- whenever execution context is created this also gets created
+- at global level variable gets attached to window
+-

@@ -1,0 +1,2 @@
+- even before line of code execution, js allocate memory to variable and function
+- undefined was used to check if any variable is assigned value or not so manually don't assign it

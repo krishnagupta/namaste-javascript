@@ -1,0 +1,6 @@
+- data hiding/privacy, counter example
+- wrap fn over it & return increment fn so it forms closure
+- In constructor fn use new keyword
+- overconsumptn of memory, not garbage collected, memory leak if not handled properly
+- garbage collector freeze memory if it finds out it is no longer needed
+- z is garbage collected if it is declared inside outer fn but not used

@@ -1,0 +1,2 @@
+- if global execution context and execution context has same variable name they both are different
+-

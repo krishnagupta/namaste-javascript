@@ -1,0 +1,3 @@
+- browser source, scope, inside global we can see variable is assigned before it started executing
+- For arrow fn it act as variable so undefined value inmemory allocation phase
+- anonymous id global execution context

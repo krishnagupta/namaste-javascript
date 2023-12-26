@@ -1,0 +1,5 @@
+- to understand event loop properly, need to understand callback
+- JS is sync, single threaded language
+- due to callback we can do async thing in JS
+- it gets called later in code
+-
